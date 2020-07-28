@@ -1,3 +1,13 @@
+1.cd 路径 进入到本地目录
+2.配置git
+3.git init 在本地进行初始化
+4.工作区提交的缓冲区
+	git add 文件名 
+	git add * 提交所有文件
+	git commit -m "提交的信息"
+5.查看工作区的状态
+	git status
+
 6.从暂存区恢复文件到工作区
 	git checkout 文件名
 7.查看工作区和暂存区版本的区别
