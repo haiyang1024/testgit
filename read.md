@@ -27,4 +27,4 @@ C:\Users\admin\.ssh\id_rsa.pub
 14.git clone
 	从远程仓库更新到本地
 15.从远程仓库同步本地代码
-abcdef
+fafa
